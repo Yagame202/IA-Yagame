@@ -1,1 +1,1 @@
-# IA---Yagame
+# IA-Yagame
